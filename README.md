@@ -17,12 +17,12 @@ This project aims to benchmark various AI models using the Nosana network, provi
 ### Models Benchmarked
 | Model Name | Description |
 |------------|-------------|
-| mistralai/Mistral-7B-Instruct-v0.2 | Mistral: |
-| Qwen/Qwen1.5-72B-Chat | Qwen 1.5: |
-| meta-llama/Llama-2-7b | Llama 2: |
-| databricks/dbrx-instruct | DBRX: |
-| 01-ai/Yi-34B-200K | Yi: |
-| xai-org/grok-1 | Grok: |
+| mistralai/Mistral-7B-Instruct-v0.2 |  |
+| Qwen/Qwen1.5-72B-Chat |  |
+| meta-llama/Llama-2-7b |  |
+| databricks/dbrx-instruct |  |
+| 01-ai/Yi-34B-200K |  |
+| xai-org/grok-1 | |
 
 
 
