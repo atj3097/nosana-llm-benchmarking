@@ -1,0 +1,18 @@
+{
+  "version": "0.1",
+  "type": "container",
+  "meta": {
+    "trigger": "cli"
+  },
+  "ops": [
+    {
+      "type": "container/run",
+      "id": "benchmarking",
+      "args": {
+        "cmd": ["python3 run_models.py"],
+        "image": "http://docker.io/atj3097/nosana-llm-benchmarks",
+        "gpu": true
+      }
+    }
+  ]
+}
