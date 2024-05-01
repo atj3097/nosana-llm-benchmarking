@@ -10,7 +10,7 @@
       "id": "benchmarking",
       "args": {
         "cmd": ["python3 run_models.py"],
-        "image": "http://docker.io/atj3097/nosana-llm-benchmarks",
+        "image": "https://hub.docker.com/r/atj3097/nosana-llm-benchmarkss",
         "gpu": true
       }
     }
